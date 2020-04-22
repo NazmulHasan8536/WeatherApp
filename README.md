@@ -1,3 +1,15 @@
+create a fresh vue project using vue ui,
+
+Go to the openwhether website for api support
+
+https://home.openweathermap.org/api_keys
+
+
+now connect the api_keys.
+
+********************************************************************8
+
+
 # whetherapp
 
 ## Project setup
